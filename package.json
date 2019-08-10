@@ -1,0 +1,27 @@
+{
+  "name": "codecademy-slack-bot",
+  "version": "0.0.1",
+  "description": "A slack bot for our workspace",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules lib/run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakec-github/codecademy-slack-bot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "codecademy",
+    "meetups"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakec-github/codecademy-slack-bot/issues"
+  },
+  "homepage": "https://github.com/jakec-github/codecademy-slack-bot#readme",
+  "type": "module"
+}
